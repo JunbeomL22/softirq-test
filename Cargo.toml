@@ -12,3 +12,4 @@ name = "server"
 path = "src/server.rs"
 
 [dependencies]
+core_affinity = "0.8"
